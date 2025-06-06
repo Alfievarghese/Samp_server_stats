@@ -3,7 +3,7 @@ const samp = require('samp-query');
 const fs = require('fs');
 const express = require('express');
 
-const TOKEN = 'ODU4MzY3NjM3MDUwNjIxOTcy.GSAKJJ.mHsMYKkhgNkN4sNoZJZaunKkDnvtWr3a3wycUc';
+const TOKEN = 'Token';
 const CONFIG_FILE = 'config.json';
 const MESSAGE_FILE = 'messages.json';
 
